@@ -39,8 +39,6 @@ public class Operadores{
 
 
 
-        //System.out.println("olá mundo");
+        System.out.println("olá mundo cruel");
     }
-
-    
 }

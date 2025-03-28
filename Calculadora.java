@@ -1,0 +1,14 @@
+public class Calculadora {
+    public void saudacao (){
+        System.out.println("bem vindo a calculadora");
+    }
+
+    public void somar (int a, int b) {
+        System.out.println("soma: " + (a+b));
+    }
+
+    public int multiplicar(int x , int y){
+        return x*y;
+        
+    }
+}
